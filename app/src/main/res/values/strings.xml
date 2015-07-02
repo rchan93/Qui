@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">QuiQui</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="majors_title">Majors</string>
+    <string name="facebook_app_id">902455836482514</string>
+
+    <string name="next">next</string>
+
+    <string name="title_activity_sub">About Us</string>
+
+    <string name="user_name">User Name</string>
+
+    <string name="drawer_open">Open</string>
+
+    <string name="drawer_close">Close</string>
+
+    <!--Navigation drawer list-->
+    <string-array name="lists">
+        <item>Home</item>
+        <item>Categories</item>
+        <item>Discover</item>
+        <item>Profile</item>
+        <item>Setting</item>
+        <item>Support</item>
+        <item>About Us</item>
+        <item>Logout</item>
+    </string-array>
+
+    <!--Homepage tabs-->
+    <string-array name="tabs">
+        <item>Major</item>
+        <item>Recently Added</item>
+        <item>All</item>
+    </string-array>
+
+    <string-array name="Majors">
+        <item>&lt;Choose a Major&gt;</item>
+        <item>Accounting</item>
+        <item>AfricanStudies</item>
+        <item>AmericanStudies</item>
+        <item>Anthropology</item>
+        <item>Art</item>
+        <item>Biology</item>
+        <item>Business</item>
+        <item>CarribeanStudies</item>
+        <item>Chemistry</item>
+        <item>ChildHoodEducation</item>
+        <item>Classics</item>
+        <item>Communication</item>
+        <item>ComputerScience</item>
+        <item>Earth Science</item>
+        <item>Economics</item>
+        <item>English</item>
+        <item>Film</item>
+        <item>French</item>
+        <item>Health</item>
+        <item>History</item>
+        <item>Information Systems</item>
+        <item>Italian</item>
+        <item>Journalism</item>
+        <item>Judaic Studies</item>
+        <item>Kinesiology</item>
+        <item>Linguistics</item>
+        <item>Literature</item>
+        <item>Mathematic</item>
+        <item>Multimedia</item>
+        <item>Music</item>
+        <item>Philosophy</item>
+        <item>PhysicalEducation</item>
+        <item>Physics</item>
+        <item>Puerto Rican and Latino Studies</item>
+        <item>Psychology</item>
+        <item>Religion</item>
+        <item>Russian</item>
+        <item>Social Studies</item>
+        <item>Sociology</item>
+        <item>Spanish</item>
+        <item>Speech</item>
+        <item>Television and Radio</item>
+        <item>Theater</item>
+        <item>Urban Sustainability</item>
+        <item>Women and Gender Studies</item>
+    </string-array>
+
+    <string-array name="Minors">
+        <item>&lt;Choose a Minor&gt;</item>
+        <item>Accounting</item>
+        <item>AfricanStudies</item>
+        <item>AmericanStudies</item>
+        <item>Anthropology</item>
+        <item>Art</item>
+        <item>Biology</item>
+        <item>Business</item>
+        <item>CarribeanStudies</item>
+        <item>Chemistry</item>
+        <item>ChildHoodEducation</item>
+        <item>Classics</item>
+        <item>Communication</item>
+        <item>ComputerScience</item>
+        <item>Earth Science</item>
+        <item>Economics</item>
+        <item>English</item>
+        <item>Film</item>
+        <item>French</item>
+        <item>Health</item>
+        <item>History</item>
+        <item>Information Systems</item>
+        <item>Italian</item>
+        <item>Journalism</item>
+        <item>Judaic Studies</item>
+        <item>Kinesiology</item>
+        <item>Linguistics</item>
+        <item>Literature</item>
+        <item>Mathematic</item>
+        <item>Multimedia</item>
+        <item>Music</item>
+        <item>Philosophy</item>
+        <item>PhysicalEducation</item>
+        <item>Physics</item>
+        <item>Puerto Rican and Latino Studies</item>
+        <item>Psychology</item>
+        <item>Religion</item>
+        <item>Russian</item>
+        <item>Social Studies</item>
+        <item>Sociology</item>
+        <item>Spanish</item>
+        <item>Speech</item>
+        <item>Television and Radio</item>
+        <item>Theater</item>
+        <item>Urban Sustainability</item>
+        <item>Women and Gender Studies</item>
+        <!--<item>&lt;Choose a Minor&gt;</item>-->
+        <!--<item>Accounting</item>-->
+        <!--<item>Actuarial Mathematics</item>-->
+        <!--<item>Africana Studies</item>-->
+        <!--<item>Anthropology</item>-->
+        <!--<item>Art</item>-->
+        <!--<item>Art History</item>-->
+        <!--<item>Biology</item>-->
+        <!--<item>Biology Teacher</item>-->
+        <!--<item>Broadcast Journalism</item>-->
+        <!--<item>Business Administration - Business Economics</item>-->
+    </string-array>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="title_activity_profile">Profile</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sell">SellActivity</string>
+    <string name="title_activity_support">Support Page</string>
+    <string name="title_activity_listing_info">My Listing</string>
+
+
+
+
+</resources>

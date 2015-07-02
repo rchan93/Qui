@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ray\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-6ef50c0a6682ac90701d49c7b0f94603524001c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-9b801bbf0f4bd2ad306aa75de2eb3922c2ad8d71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-7214620bc76aa3e90b49c9818b86c64563c2bffd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-d6f44460144525fd172abfc1db85e1ffcd5fd7a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-adf2949d8c3e70519639c182c262e4c03cb4b529.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-3fb3df96ccada9c81c4569469ec42b8239ad3814.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-663531d37abf1f8aac4f3434ca4d783dd2a0eefe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-8df6c3c5bf39894b1bcb630c36ff797f50587a50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-14046b81146843a2d4f02c0eee84029cc143ad1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-d78b967178dc3a6cba7a8673d7859befce0a9788.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-f340f80db9f3dc9bbdd40c61b2bffbc04a49cde5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-98910b6ba7b1131eab6cd31eda0ef69ea97e3faa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-4cc76bbb1434caa820bed29dae4065e6309ee7d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-9210bd0460e36661fa2c4758ae9e197a5b9647c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-5fe7950c25c2f641c5c78e064197f57bd94e48bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-73f1fef775e37254ae58fb6cb1b34f61aad056de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-fa64379b4d2834001ce59563d4a6cb366401f43a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-8528c665c3c1c56524634f874eb5b544082bbc39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-3388833a41b47017d7f41fc0f15d449b31167cb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-1804f1bdb781355b5cd171b945a0634b04d51f14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-0df71ea766c02239310fa8791885216b6aea981c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-9170564a5db82323f23540cab1a35be59df76970.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-d992713424ba9a1d1e6c9c608e8bcb667aa5dc73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.23.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c8414f03ff9e5b045f185921c9bc42914c906458">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-f5685301fb038cf4af332c4e31a0f9e361382422.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-6143ea13ff4753a21197acda9206d241e8c2c946.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\classes-c6b27cad935ea234479d62c7c3bbf87b6292b1b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Ray\Desktop\QuiQui\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-b3c94cf576d288b047ef2648ee55972ff2a32f86.jar" />
+    </item>
+
+</items>
